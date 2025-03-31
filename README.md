@@ -1,0 +1,1 @@
+Taskify is an efficient To-Do list Application developed using Python and Tkinter. It helps users organise their tasks efficiently by allowing them to prioritize their tasks based on deadlines and urgency.
